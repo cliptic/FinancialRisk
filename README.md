@@ -1,4 +1,4 @@
-Financial Risk
+# [Financial Risk Analysis For Option Pricing](https://github.com/cliptic/FinancialRisk/blob/master/FinanciaRiskText.pdf)
 
 ## [Analyzing two types of equity: Apple (AAPL in USD) and Facebook (FB in USD).](https://github.com/cliptic/FinancialRisk/blob/master/data2018.R)
 The types of equity are similar: both are stocks of related industries representing well established companies and show similar stock behavior. Their historical data provides us with a correlation of 0.451742. From asset derivative prices in the market we extract the implied volatilities and observe that smiles show different volatilities for different maturities, the smile, skew and smirk characteristics being the most defined for shortest time to maturity options as visualized in the graph below. For this evaluation and the succeeding model the environment is considered to be risk-free, with a risk-free rate set at rf = 0.01.
